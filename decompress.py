@@ -10,7 +10,6 @@ import os
 # Command line main application function.
 def main(args):
 
-	# TODO: add logic to accept correct params
 	inputfile, outputfile = args
 	total_length = 0
 
